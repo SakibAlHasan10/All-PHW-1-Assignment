@@ -20,8 +20,10 @@ body{
     display: flex;
     .header-section-left{
         width: 50%;
+        text-align: left;
     }
     .header-section-right{
         width: 50%;
+        text-align: left;
     }
 }
