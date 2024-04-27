@@ -74,5 +74,16 @@ body {
 /* featured-section */
 .featured-section{
     padding: 100px 100px 50px 100px;
+    
+}
+
+.featured-title-section{
     text-align: center;
+    height: 100vh;
+    h2{
+
+    }
+    p{
+        
+    }
 }
