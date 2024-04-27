@@ -6,5 +6,8 @@
 /* body section */
 
 body{
-    
+
+}
+.header-section{
+    display: flex;
 }
