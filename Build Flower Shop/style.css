@@ -28,6 +28,13 @@ body {
     width: 50%;
     text-align: left;
     padding: 100px 20px 100px 0px;
+    h1{
+        font-size: 65px;
+        font-weight: bold;
+        line-height: 70px;
+        letter-spacing: -1px;
+        color: rgb(55, 52, 52);
+    }
   }
 
   /* header container flower section  */
