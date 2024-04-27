@@ -70,3 +70,9 @@ body {
 .btn:hover{
     background-color: #a29999;
 }
+
+/* featured-section */
+.featured-section{
+    padding: 100px 100px 50px 100px;
+    text-align: center;
+}
