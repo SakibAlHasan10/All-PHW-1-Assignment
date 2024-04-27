@@ -66,3 +66,7 @@ body {
     color: white;
     font-size: 16px;
 }
+
+.btn:hover{
+    background-color: #a29999;
+}
