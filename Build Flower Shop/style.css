@@ -79,11 +79,11 @@ body {
 
 .featured-title-section{
     text-align: center;
-    height: 100vh;
+    
     h2{
-
+        font-size: 68px;
     }
     p{
-        
+        width: 33%;
     }
 }
