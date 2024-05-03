@@ -120,5 +120,8 @@ body {
     .featured-flower-name{
         margin: 25px;
         text-align: center;
+        font-size: 18px;
+        color: rgb(81, 80, 80);
+        text-decoration: underline;
     }
 }
