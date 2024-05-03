@@ -92,4 +92,17 @@ body {
 }
 .featured-container{
     display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align:justify;
+    padding-top: 30px;
+    .featured-container-1{
+        background-color: rgba(167, 33, 98, 0.15);
+    }
+    .featured-container-2{
+        background-color: rgba(5, 151, 160, 0.15);
+    }
+    .featured-container-3{
+        background-color: rgba(71, 125, 17, 0.15);
+    }
 }
