@@ -81,9 +81,12 @@ body {
     text-align: center;
     
     h2{
-        font-size: 68px;
+        font-size: 30px;
+        font-weight: 800;
     }
     p{
-        width: 33%;
+        margin: 15px;
+        line-height: 22px;
+        color: rgb(142, 139, 139);
     }
 }
