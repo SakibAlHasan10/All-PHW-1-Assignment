@@ -90,3 +90,6 @@ body {
         color: rgb(142, 139, 139);
     }
 }
+.featured-container{
+    display: flex;
+}
