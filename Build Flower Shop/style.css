@@ -98,6 +98,8 @@ body {
     padding-top: 30px;
     .featured-container-1{
         background-color: rgba(167, 33, 98, 0.15);
+        margin: 10px;
+        border-radius: 300px 300px 0px 0px ;
     }
     .featured-container-2{
         background-color: rgba(5, 151, 160, 0.15);
@@ -106,10 +108,17 @@ body {
     }
     .featured-container-3{
         background-color: rgba(71, 125, 17, 0.15);
+        margin: 10px;
+        border-radius: 300px 300px 0px 0px ;
+        
     }
     .featured-container-flower img{
         width: 200px;
         height: 270px;
         padding: 80px 40px 0px 70px;
+    }
+    .featured-flower-name{
+        margin: 25px;
+        text-align: center;
     }
 }
