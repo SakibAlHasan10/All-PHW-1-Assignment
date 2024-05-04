@@ -125,3 +125,18 @@ body {
         text-decoration: underline;
     }
 }
+
+/* services-section */
+section{
+    display: block;
+}
+.services-section{
+    background-color: rgba(39, 39, 39, 0.05);
+    text-align: center;
+    height: 180px;
+    width: 70%;
+    margin: 20px 65px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+}
