@@ -139,4 +139,7 @@ section{
     display: flex;
     justify-content: space-around;
     border-radius: 10px;
+    .services-item-1 img{
+        width: 40px;
+    }
 }
