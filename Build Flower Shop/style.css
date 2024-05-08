@@ -149,8 +149,8 @@ section{
 
 /* hot deal section */
 
-.hotDeal-section{
-  .hotDeal-Container{
-    
+/* .hotDeal-section{ */
+  .hotDeal-container{
+    display: flex;
   }
-}
+/* } */
