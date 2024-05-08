@@ -139,6 +139,7 @@ section{
     display: flex;
     justify-content: space-around;
     border-radius: 10px;
+    align-items: center;
     justify-items: center;
     
     .services-img img{
