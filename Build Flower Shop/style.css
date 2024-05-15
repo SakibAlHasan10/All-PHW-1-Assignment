@@ -155,11 +155,12 @@ section {
     justify-content: center;
     align-items: center;
     .hotDeal-left-site h2 {
-      font-size: 65px;
-      font-weight: bold;
-      line-height: 70px;
-      letter-spacing: -1px;
+      font-size: 30px;
+      font-weight: 900;
       color: rgb(55, 52, 52);
+    }
+    .hotDeal-left-site p{
+      margin: 25px 0px;
     }
   }
 }
