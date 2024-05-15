@@ -149,17 +149,17 @@ section {
 
 .hotDeal-section {
   background-color: rgba(229, 84, 115, 0.05);
-  padding:  100px 0px;
+  padding: 100px 0px;
   .hotDeal-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    .hotDeal-left-site{
-      
+    .hotDeal-left-site h2 {
+      font-size: 65px;
     }
   }
 }
 
 /* instagram section */
-.instagram-section{
+.instagram-section {
 }
