@@ -176,4 +176,7 @@ section {
 
 /* instagram section */
 .instagram-section {
+  .instagram-section h2{
+    font-size: 30px;
+  }
 }
