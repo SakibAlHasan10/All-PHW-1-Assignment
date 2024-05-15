@@ -151,6 +151,8 @@ section {
   background-color: #E55473;
   .hotDeal-container {
     display: flex;
+    justify-content: center;
+    
   }
 }
 
