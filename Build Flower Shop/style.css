@@ -148,7 +148,7 @@ section {
 /* hot deal section */
 
 .hotDeal-section {
-  background-color: #E55473;
+  background-color: rgba(229, 84, 115, 0.05);
   .hotDeal-container {
     display: flex;
     justify-content: center;
