@@ -169,6 +169,7 @@ section {
       color: rgb(130, 126, 126);
     }
     .hotDeal-right-site img{
+      height: 300px;
     }
   }
 }
