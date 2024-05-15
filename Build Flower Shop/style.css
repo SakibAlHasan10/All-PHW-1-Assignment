@@ -189,6 +189,6 @@ section {
   }
 
   .instagram-container{
-    
+    display: flex;
   }
 }
