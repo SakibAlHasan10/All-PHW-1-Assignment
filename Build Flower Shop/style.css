@@ -157,7 +157,8 @@ section {
     .hotDeal-left-site h2 {
       font-size: 65px;
       font-weight: bold;
-      line-height: 70px
+      line-height: 70px;
+      letter-spacing: -1px;
     }
   }
 }
