@@ -196,4 +196,8 @@ section {
     display: flex;
     gap: 10px;
   }
+
+  .instagram-container img{
+    width: 260px;
+  }
 }
