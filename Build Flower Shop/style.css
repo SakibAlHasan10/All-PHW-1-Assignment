@@ -177,6 +177,7 @@ section {
 /* instagram section */
 .instagram-section {
   text-align: center;
+
   .instagram-title-section h2{
     font-size: 30px;
     font-weight: 900;
@@ -189,6 +190,7 @@ section {
   }
 
   .instagram-container{
+    width: 80%;
     display: flex;
     gap: 10px;
   }
