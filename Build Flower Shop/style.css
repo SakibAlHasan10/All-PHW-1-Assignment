@@ -176,6 +176,7 @@ section {
 
 /* instagram section */
 .instagram-section {
+  margin-top: 100px;
   text-align: center;
   height: 70vh;
   .instagram-title-section h2{
