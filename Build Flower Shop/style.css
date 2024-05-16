@@ -200,5 +200,6 @@ section {
   .instagram-container img{
     width: 260px;
     height: 300px;
+    margin: 6px;
   }
 }
