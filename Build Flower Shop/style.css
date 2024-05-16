@@ -192,6 +192,7 @@ section {
   .instagram-container{
     width: 80%;
     margin: 30px auto;
+    justify-content: space-around;
     display: flex;
     gap: 10px;
   }
