@@ -210,5 +210,5 @@ section {
 /* search bar section */
 
 .search-container {
-  background-image: image("./Flower Assets/Rectangle 9.png");
+  background-image: url("./Flower Assets/Rectangle 9.png");
 }
