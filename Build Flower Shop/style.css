@@ -209,6 +209,6 @@ section {
 
 /* search bar section */
 
-.search-container{
-  
+.search-container {
+  background-image: image("./Flower Assets/Rectangle 9.png");
 }
