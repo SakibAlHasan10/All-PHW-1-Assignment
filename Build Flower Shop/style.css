@@ -223,4 +223,5 @@ section {
   margin: 70px auto;
   display: flex;
   text-align: center;
+  border-radius: 10px;
 }
