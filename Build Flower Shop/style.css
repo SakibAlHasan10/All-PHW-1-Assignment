@@ -210,9 +210,10 @@ section {
 /* search bar section */
 .search-section{
   height: 60vh;
-  background-image: url("./Flower Assets/Rectangle\ 9.png");
+  
 }
 
 .search-container {
-  background-image: url("./Flower Asset/Rectangle 9.png");
+  background-image: url("./Flower Assets/Rectangle\ 9.png");
+  background-position: center;
 }
