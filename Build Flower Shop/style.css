@@ -222,4 +222,5 @@ section {
   height: 300px;
   margin: 70px auto;
   display: flex;
+  text-align: center;
 }
