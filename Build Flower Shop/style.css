@@ -210,7 +210,7 @@ section {
 /* search bar section */
 .search-section{
   height: 60vh;
-  
+text-align: center;
 }
 
 .search-container {
