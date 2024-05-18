@@ -216,4 +216,5 @@ section {
 .search-container {
   background-image: url("./Flower Assets/Rectangle\ 9.png");
   background-position: center;
+  background-repeat: no-repeat;
 }
