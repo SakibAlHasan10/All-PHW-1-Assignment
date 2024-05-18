@@ -224,4 +224,8 @@ text-align: center;
   display: flex;
   text-align: center;
   border-radius: 10px;
+
+  .search-content{
+    width: 100%;
+  }
 }
