@@ -221,4 +221,5 @@ section {
   width:80%;
   height: 300px;
   margin: 70px auto;
+  display: flex;
 }
