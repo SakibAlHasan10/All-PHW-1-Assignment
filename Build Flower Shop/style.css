@@ -236,5 +236,6 @@ text-align: center;
   .search-content h1{
     font-size: 30px;
     font-weight: 900;
+    color: rgb(82, 75, 75);
   }
 }
