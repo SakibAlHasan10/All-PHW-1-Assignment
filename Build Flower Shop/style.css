@@ -155,7 +155,7 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    .hotDeal-left-site{
+    .hotDeal-left-site {
       width: 50%;
     }
     .hotDeal-left-site h2 {
@@ -163,15 +163,15 @@ section {
       font-weight: 900;
       color: rgb(55, 52, 52);
     }
-    .hotDeal-left-site p{
+    .hotDeal-left-site p {
       margin: 25px 0px;
       font-size: 12px;
       color: rgb(130, 126, 126);
-      .hotDeal-span{
+      .hotDeal-span {
         color: #e55473;
       }
     }
-    .hotDeal-right-site img{
+    .hotDeal-right-site img {
       height: 300px;
     }
   }
@@ -182,25 +182,25 @@ section {
   margin-top: 100px;
   text-align: center;
   height: 70vh;
-  .instagram-title-section h2{
+  .instagram-title-section h2 {
     font-size: 30px;
     font-weight: 900;
   }
-  .instagram-title-section p{
+  .instagram-title-section p {
     font-size: 14px;
     margin: 15px 0px;
     line-height: 20px;
     color: rgb(144, 138, 138);
   }
 
-  .instagram-container{
+  .instagram-container {
     width: 80%;
     margin: 30px auto;
     justify-content: space-around;
     display: flex;
   }
 
-  .instagram-container img{
+  .instagram-container img {
     width: 260px;
     height: 300px;
     margin: 6px;
@@ -208,9 +208,9 @@ section {
 }
 
 /* search bar section */
-.search-section{
+.search-section {
   height: 60vh;
-text-align: center;
+  text-align: center;
 }
 
 .search-container {
@@ -218,14 +218,14 @@ text-align: center;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  width:80%;
+  width: 80%;
   height: 300px;
   margin: 70px auto;
   display: flex;
   text-align: center;
   border-radius: 10px;
 
-  .search-content{
+  .search-content {
     width: 100%;
     height: auto;
     display: flex;
@@ -233,15 +233,19 @@ text-align: center;
     align-items: center;
   }
 
-  .search-content h1{
+  .search-content h1 {
     font-size: 30px;
     font-weight: 900;
     color: rgb(82, 75, 75);
   }
 
-  .search-content p{
+  .search-content p {
     font-size: 14px;
     margin: 15px;
     color: rgb(142, 138, 138);
+  }
+
+  .search-content input {
+    height: 40px;
   }
 }
