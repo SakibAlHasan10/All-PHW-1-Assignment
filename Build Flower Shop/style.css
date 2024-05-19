@@ -247,5 +247,6 @@ section {
 
   .search-content input {
     height: 40px;
+    width: 500px;
   }
 }
