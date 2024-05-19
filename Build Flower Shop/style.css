@@ -232,4 +232,8 @@ text-align: center;
     justify-content: center;
     align-items: center;
   }
+
+  .search-content h1{
+    font-size: 30px;
+  }
 }
