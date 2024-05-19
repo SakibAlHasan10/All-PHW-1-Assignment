@@ -238,4 +238,8 @@ text-align: center;
     font-weight: 900;
     color: rgb(82, 75, 75);
   }
+
+  .search-content p{
+    font-size: 14px;
+  }
 }
