@@ -264,9 +264,7 @@ section {
   text-align: center;
   color: white;
   padding: 120px 0px 80px 0px;
-  .text-color{
-    color: #e55473;
-  }
+  
   .footer-copy-right{
     color: rgb(124, 120, 120);
   }
@@ -276,4 +274,8 @@ section {
   font-size: 40px;
   font-weight: 900;
   margin-bottom: 20px;
+  .text-color{
+    color: #e55473;
+  }
 }
+
