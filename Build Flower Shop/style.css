@@ -264,5 +264,6 @@ section {
   text-align: center;
   color: white;
   .footer-copy-right{
+    font-size: 12px;
   }
 }
