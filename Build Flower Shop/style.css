@@ -263,6 +263,7 @@ section {
   background-color: black;
   text-align: center;
   color: white;
+  padding: 120px 0px 0px 100px;
   .footer-copy-right{
     font-size: 12px;
   }
