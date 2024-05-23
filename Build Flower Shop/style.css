@@ -263,7 +263,7 @@ section {
   background-color: black;
   text-align: center;
   color: white;
-  padding: 100px 0px 80px 0px;
+  padding: 100px 0px 60px 0px;
   
   .footer-copy-right{
     color: rgb(124, 120, 120);
@@ -281,7 +281,7 @@ section {
 
 .footer-section p{
   font-size: 14px;
-  line-height: 20pz ;
+  line-height: 20px ;
   margin-bottom: 20px;
   color: rgb(172, 161, 161);
 }
