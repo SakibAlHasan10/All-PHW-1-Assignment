@@ -148,7 +148,7 @@ section {
 /* popular section */
 .popular-section{
   .popular-section-container{
-    width: 80%;
+    width: 70%;
     margin: 80px auto;
     background-color: aqua;
     display: flex;
