@@ -161,6 +161,7 @@ section {
       width: 250px;
       height: 340px;
       padding-top: 20px;
+      position: relative;
       img {
         width: 180px;
         height: 200px;
