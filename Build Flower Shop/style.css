@@ -146,15 +146,17 @@ section {
 }
 
 /* popular section */
-.popular-section{
-  .popular-section-container{
+.popular-section {
+  .popular-section-container {
     width: 70%;
     margin: 80px auto;
     background-color: aqua;
     display: flex;
-    img{
-      width: 180px;
-      height: 200px;
+    .popular-item {
+      img {
+        width: 180px;
+        height: 200px;
+      }
     }
   }
 }
@@ -270,33 +272,31 @@ section {
   }
 }
 
-
 /* footer section */
 
-.footer-section{
+.footer-section {
   background-color: black;
   text-align: center;
   color: white;
   padding: 100px 0px 60px 0px;
-  
-  .footer-copy-right{
+
+  .footer-copy-right {
     color: rgb(124, 120, 120);
   }
 }
 
-.footer-section h2{
+.footer-section h2 {
   font-size: 40px;
   font-weight: 900;
   margin-bottom: 20px;
-  .text-color{
+  .text-color {
     color: #e55473;
   }
 }
 
-.footer-section p{
+.footer-section p {
   font-size: 14px;
-  line-height: 20px ;
+  line-height: 20px;
   margin-bottom: 20px;
   color: rgb(172, 161, 161);
 }
-
