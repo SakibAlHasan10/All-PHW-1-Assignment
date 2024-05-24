@@ -148,7 +148,7 @@ section {
 /* popular section */
 .popular-section{
   .popular-section-container{
-    
+    display: flex;
   }
 }
 
