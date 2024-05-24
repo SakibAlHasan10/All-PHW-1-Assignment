@@ -149,6 +149,9 @@ section {
 .popular-section{
   .popular-section-container{
     display: flex;
+    img{
+      width: 300px;
+    }
   }
 }
 
