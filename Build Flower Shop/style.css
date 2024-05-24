@@ -154,6 +154,7 @@ section {
     display: flex;
     .popular-item {
       border: solid;
+      border-width: 2px;
       img {
         width: 180px;
         height: 200px;
