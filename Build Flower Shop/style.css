@@ -153,6 +153,7 @@ section {
     background-color: aqua;
     display: flex;
     .popular-item {
+      border: solid;
       img {
         width: 180px;
         height: 200px;
