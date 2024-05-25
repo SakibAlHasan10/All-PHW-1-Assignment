@@ -150,7 +150,6 @@ section {
   .popular-section-container {
     width: 70%;
     margin: 80px auto;
-    background-color: aqua;
     display: flex;
     justify-content: space-around;
 
