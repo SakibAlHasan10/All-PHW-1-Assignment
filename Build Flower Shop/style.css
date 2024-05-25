@@ -166,6 +166,9 @@ section {
         width: 180px;
         height: 200px;
       }
+      p{
+        font-size: 18px;
+      }
     }
 
     .popular-item:hover{
