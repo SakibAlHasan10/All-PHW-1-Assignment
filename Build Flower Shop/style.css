@@ -197,6 +197,8 @@ padding: 10px;
 border-radius: 50px;
 color: white;
 font-size: 14px;
+font-weight: 900;
+position: absolute;
 }
 
 /* hot deal section */
