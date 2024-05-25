@@ -186,6 +186,11 @@ section {
   top: 20px;
   left: 20px;
   position: absolute;
+  cursor: pointer;
+}
+
+.view-btn{
+
 }
 
 /* hot deal section */
