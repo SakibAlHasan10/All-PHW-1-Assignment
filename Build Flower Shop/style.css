@@ -147,6 +147,9 @@ section {
 
 /* popular section */
 .popular-section {
+  h2{
+    text-align: center;
+  }
   .popular-section-container {
     width: 70%;
     margin: 80px auto;
