@@ -149,6 +149,8 @@ section {
 .popular-section {
   h2{
     text-align: center;
+    font-size: 35px;
+    color: #685d5f;
   }
   .popular-section-container {
     width: 70%;
