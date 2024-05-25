@@ -183,6 +183,9 @@ section {
   color: white;
   font-size: 14px;
   font-weight: 900;
+  top: 20px;
+  left: 20px;
+  position: absolute;
 }
 
 /* hot deal section */
