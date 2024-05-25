@@ -192,6 +192,9 @@ section {
 .view-btn{
 background-color: #e55473;
 border: none;
+width: 120px;
+padding: 10px;
+border-radius: 50px;
 }
 
 /* hot deal section */
