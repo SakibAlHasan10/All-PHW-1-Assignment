@@ -177,6 +177,7 @@ section {
 .sale-btn{
   background-color: #e55473;
   width: 70px;
+  border: none;
 }
 
 /* hot deal section */
