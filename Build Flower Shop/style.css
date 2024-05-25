@@ -178,6 +178,7 @@ section {
   background-color: #e55473;
   width: 70px;
   border: none;
+  border-radius: 50px;
 }
 
 /* hot deal section */
