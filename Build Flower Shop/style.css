@@ -199,6 +199,9 @@ color: white;
 font-size: 14px;
 font-weight: 900;
 position: absolute;
+cursor: pointer;
+top: 150px;
+left: 65px;
 }
 
 /* hot deal section */
