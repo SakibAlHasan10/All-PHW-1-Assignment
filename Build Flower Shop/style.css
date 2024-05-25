@@ -179,6 +179,10 @@ section {
   width: 70px;
   border: none;
   border-radius: 50px;
+  padding: 10px;
+  color: white;
+  font-size: 14px;
+  font-weight: 900;
 }
 
 /* hot deal section */
